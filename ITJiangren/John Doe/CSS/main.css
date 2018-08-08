@@ -1,0 +1,5 @@
+body{background-color: red}
+.header{ background-color: purple; color:white}
+.header a {color: white}
+#nav a {color: black}
+.header >ul>li {background-color: black}
