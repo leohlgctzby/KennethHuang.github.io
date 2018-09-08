@@ -11,6 +11,14 @@
     }
     // /Hide Mobile menu
 
+    $(window).scroll(function () {
+        if ($(window).scrollTop() < 20) {
+            $('.header').removeClass('sticked');
+        } else {
+            $('.header').addClass('sticked');
+        }
+     }).scrollTop(0);
+
     //On document load
     // $(document).on("ready", function() {
     $(document).ready(function(){
@@ -33,5 +41,6 @@
     console.log("main.js ended");
 
 })(jQuery);
+
 
 
