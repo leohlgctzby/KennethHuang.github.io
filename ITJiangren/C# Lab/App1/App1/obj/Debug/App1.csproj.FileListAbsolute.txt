@@ -1,0 +1,6 @@
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\App1\App1\bin\Debug\App1.exe.config
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\App1\App1\bin\Debug\App1.exe
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\App1\App1\bin\Debug\App1.pdb
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\App1\App1\obj\Debug\App1.exe
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\App1\App1\obj\Debug\App1.pdb

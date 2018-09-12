@@ -1,0 +1,12 @@
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\bin\Debug\netcoreapp2.0\MathAPI.deps.json
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\bin\Debug\netcoreapp2.0\MathAPI.runtimeconfig.json
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\bin\Debug\netcoreapp2.0\MathAPI.runtimeconfig.dev.json
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\bin\Debug\netcoreapp2.0\MathAPI.dll
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\obj\Debug\netcoreapp2.0\MathAPI.csprojAssemblyReference.cache
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\obj\Debug\netcoreapp2.0\MathAPI.csproj.CoreCompileInputs.cache
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\obj\Debug\netcoreapp2.0\MathAPI.AssemblyInfoInputs.cache
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\obj\Debug\netcoreapp2.0\MathAPI.AssemblyInfo.cs
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\bin\Debug\netcoreapp2.0\MathAPI.pdb
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\obj\Debug\netcoreapp2.0\MathAPI.dll
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\obj\Debug\netcoreapp2.0\MathAPI.pdb
+C:\Users\Abigail\Documents\GitHub\C# Lab\Assignments\MathAPI\MathAPI\bin\Debug\netcoreapp2.0\MathAPI.xml
