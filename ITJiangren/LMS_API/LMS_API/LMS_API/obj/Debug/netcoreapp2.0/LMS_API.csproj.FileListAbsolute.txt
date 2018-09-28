@@ -1,0 +1,11 @@
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\bin\Debug\netcoreapp2.0\LMS_API.deps.json
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\bin\Debug\netcoreapp2.0\LMS_API.runtimeconfig.json
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\bin\Debug\netcoreapp2.0\LMS_API.runtimeconfig.dev.json
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\bin\Debug\netcoreapp2.0\LMS_API.dll
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\bin\Debug\netcoreapp2.0\LMS_API.pdb
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\obj\Debug\netcoreapp2.0\LMS_API.csproj.CoreCompileInputs.cache
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\obj\Debug\netcoreapp2.0\LMS_API.AssemblyInfoInputs.cache
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\obj\Debug\netcoreapp2.0\LMS_API.AssemblyInfo.cs
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\obj\Debug\netcoreapp2.0\LMS_API.dll
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\obj\Debug\netcoreapp2.0\LMS_API.pdb
+C:\Users\Abigail\Documents\GitHub\KennethHuang.github.io\ITJiangren\LMS_API\LMS_API\LMS_API\obj\Debug\netcoreapp2.0\LMS_API.csprojAssemblyReference.cache
